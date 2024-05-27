@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🌱 I’m currently learning Node.js
 -->
 
-- 🔭 I’m currently working on Back-end
+- 🔭 I’m currently working as a full-stack developer
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about anything
 
 <a href="https://github.com/kvn-alcantara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kvn-alcantara&show_icons=true&theme=gruvbox" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kvn-alcantara&show_icons=true&theme=gruvbox" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara&theme=gruvbox&layout=compact&langs_count=6" />
 </a>
