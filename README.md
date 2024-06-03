@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 
 <a href="https://github.com/kvn-alcantara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara&layout=compact&langs_count=6&theme=solarized-light" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=kvnalcantara&layout=compact&theme=solarized-light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara&layout=compact&langs_count=8&theme=dracula" />
 </a>
