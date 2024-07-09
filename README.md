@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a full-stack developer
-- 🌱 I’m currently learning Next.js
-- 💬 Ask me about anything
-
 <a href="https://github.com/kvn-alcantara">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara&layout=compact&langs_count=8&theme=dracula" />
 </a>
