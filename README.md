@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on backend
-- 🌱 I’m currently learning Elixir🩸
+- 🌱 I’m currently learning Elixir
+- 💬 Ask me about anything
 
 <a href="https://github.com/kvn-alcantara">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara&layout=compact&langs_count=8&theme=dracula" />
