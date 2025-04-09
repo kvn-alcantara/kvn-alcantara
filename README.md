@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning Golang
-- 💬 Ask me about anything
+- 📫 How to reach me: kevin.alcantara@proton.me
 
 <a href="https://github.com/kvn-alcantara">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara&layout=compact&langs_count=8&theme=dracula" />
