@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on backend
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Golang
 - 💬 Ask me about anything
 
 <a href="https://github.com/kvn-alcantara">
