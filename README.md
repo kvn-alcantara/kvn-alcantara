@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara&layout=donut&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara&layout=donut-vertical"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=kvn-alcantara&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn-alcantara" />
 </picture>
